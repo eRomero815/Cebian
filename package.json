@@ -1,6 +1,6 @@
 {
   "name": "cebian",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "An AI assistant that lives in your browser side panel",
   "main": "src/index.ts",
   "scripts": {
